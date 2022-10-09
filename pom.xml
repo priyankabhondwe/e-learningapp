@@ -5,4 +5,14 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>pwd</name>
   <description>customdependency</description>
+  
+  <!-- https://mvnrepository.com/artifact/org.springframework/spring-context -->
+<dependencies>
+<dependency>
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-context</artifactId>
+    <version>5.3.18</version>
+	</dependency>
+  </dependencies>
 </project>
+
